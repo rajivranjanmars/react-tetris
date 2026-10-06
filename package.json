@@ -33,7 +33,7 @@
     "vite": "^7.3.5",
     "vitest": "^5.0.3",
     "jsdom": "^27.4.0",
-    "gh-pages": "6.1.1"
+    "gh-pages": "6.3.0"
   },
   "author": {
     "name": "rajivranjanmars",
