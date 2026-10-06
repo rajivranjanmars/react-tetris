@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^6.1.1",
-    "vite": "^7.3.5",
+    "vite": "^8.3.2",
     "vitest": "^5.0.3",
     "jsdom": "^27.4.0",
     "gh-pages": "6.3.0"
