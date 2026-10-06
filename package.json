@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://rajivranjanmars.github.io/react-tetris",
   "dependencies": {
-    "react": "^18.3.1",
+    "react": "^19.3.0",
     "react-dom": "^19.3.0",
     "styled-components": "^5.3.11"
   },
