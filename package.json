@@ -6,7 +6,7 @@
   "dependencies": {
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
-    "styled-components": "^5.3.11"
+    "styled-components": "^6.5.3"
   },
   "scripts": {
     "start": "vite",
