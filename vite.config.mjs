@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/react-tetris/',
+  base: process.env.NETLIFY ? '/' : '/react-tetris/',
   build: { outDir: 'build' },
   test: { environment: 'jsdom' },
 });
